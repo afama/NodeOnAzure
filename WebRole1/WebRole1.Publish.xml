@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="https://732394ecd4f64bfb925bab53ace12042.cloudapp.net:8172/MsDeploy.axd" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="WebRole1_IN_0_Web" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="True" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="mobile - Staging" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="AFama" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAvI6ANMl5akiHd1j1rfnW/gAAAAACAAAAAAADZgAAwAAAABAAAABEwGceEA53cZnpOoLAA+4YAAAAAASAAACgAAAAEAAAAMnOJs5qFl8G/Dxj1aSyyg0YAAAAcWXDqA213ZZlJ8PwZz7YSbjaTOaDr61bFAAAAAF4b/Vg6C7y+cXhmoaxOloT3tjL" SelectedForPublish="True" />
+</publishData>

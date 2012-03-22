@@ -1,0 +1,12 @@
+C:\node\NodeOnAzure\bin\Debug\ServiceConfiguration.cscfg
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\iisnode.msi
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.dll
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.Diagnostics.xml
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.dll
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\Microsoft.WindowsAzure.StorageClient.xml
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\node.exe
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\setup_web.cmd
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\System.Web.Providers.dll
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\vcredist_x64.exe
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\WebRole1.dll
+C:\node\NodeOnAzure\obj\Debug\WebRole1\bin\WebRole1.pdb
