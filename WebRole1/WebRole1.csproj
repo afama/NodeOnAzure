@@ -696,7 +696,9 @@
     <Content Include="server.js.debug\NODE_MODULES\XMLHTTPREQUEST\DEMO.JS" />
     <Content Include="server.js.debug\NODE_MODULES\XMLHTTPREQUEST\XMLHTTPREQUEST.JS" />
     <Content Include="server.js.logs\0.txt" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -886,7 +888,9 @@
     <Content Include="bin\setup_web.cmd" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Web.cloud.config" />
+    <Content Include="Web.cloud.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="public\images\" />

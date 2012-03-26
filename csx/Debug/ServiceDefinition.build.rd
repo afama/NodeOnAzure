@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="tempService" generation="1" functional="0" release="0" Id="72543823-3bc6-4830-9898-518469df2b9f" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
+<serviceModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="tempService" generation="1" functional="0" release="0" Id="51e28f98-ca12-40f8-bf6d-f9f4b776b37b" dslVersion="1.2.0.0" xmlns="http://schemas.microsoft.com/dsltools/RDSM">
   <groups>
     <group name="tempServiceGroup" generation="1" functional="0" release="0">
       <componentports>
@@ -154,14 +154,14 @@
     </group>
   </groups>
   <implements>
-    <implementation Id="6a8c8079-d12c-47b6-8035-da556df715ea" ref="Microsoft.RedDog.Contract\ServiceContract\tempServiceContract@ServiceDefinition.build">
+    <implementation Id="2cc6a3d4-678f-4b61-b8b1-9b3fc969c2cd" ref="Microsoft.RedDog.Contract\ServiceContract\tempServiceContract@ServiceDefinition.build">
       <interfacereferences>
-        <interfaceReference Id="f330195a-f502-41b0-b286-ab8ea2b8c058" ref="Microsoft.RedDog.Contract\Interface\WebRole1:Endpoint1@ServiceDefinition.build">
+        <interfaceReference Id="39966d51-dc66-459b-acfe-5742eaf08e61" ref="Microsoft.RedDog.Contract\Interface\WebRole1:Endpoint1@ServiceDefinition.build">
           <inPort>
             <inPortMoniker name="/tempService/tempServiceGroup/WebRole1:Endpoint1" />
           </inPort>
         </interfaceReference>
-        <interfaceReference Id="05217389-629d-4131-8e33-405a40414baf" ref="Microsoft.RedDog.Contract\Interface\WebRole1:Microsoft.WindowsAzure.Plugins.RemoteForwarder.RdpInput@ServiceDefinition.build">
+        <interfaceReference Id="8fc0bc32-069d-4118-8c4e-06b8122f44f8" ref="Microsoft.RedDog.Contract\Interface\WebRole1:Microsoft.WindowsAzure.Plugins.RemoteForwarder.RdpInput@ServiceDefinition.build">
           <inPort>
             <inPortMoniker name="/tempService/tempServiceGroup/WebRole1:Microsoft.WindowsAzure.Plugins.RemoteForwarder.RdpInput" />
           </inPort>
