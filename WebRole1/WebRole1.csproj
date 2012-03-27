@@ -948,7 +948,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="bin\node.exe" />
-    <Content Include="bin\vcredist_x64.exe" />
     <Content Include="bin\iisnode.msi" />
     <Content Include="bin\setup_web.cmd" />
   </ItemGroup>
