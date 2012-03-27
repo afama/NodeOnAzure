@@ -1,6 +1,19 @@
-!!!
-html
-  head
-    title= title
-    link(rel='stylesheet', href='/stylesheets/style.css')
-  body!= body
+!!! strict
+html(xmlns='http://www.w3.org/1999/xhtml')
+	head
+	//- meta(content='yes', name='apple-mobile-web-app-capable')
+	//- meta(content='text/html; charset=utf-8', http-equiv='Content-Type')
+	//- meta(content='minimum-scale=1.0, width=device-width, maximum-scale=0.6667, user-scalable=no', name='viewport')
+	//- link(href='/stylesheets/style.css', rel='stylesheet', media='screen', type='text/css')
+	//- script(src='/javascripts/functions.js', type='text/javascript')
+	//- title= title
+	//- meta(content='keyword1,keyword2,keyword3', name='keywords')
+	//- meta(content='Description of your page', name='description')
+	style(type='text/css', media='screen')
+	style(type='text/css', media='screen')
+		@import "/themes/css/jqtouch.css";
+	//- link(href='/themes/css/jqtouch.css', rel='stylesheet', media='screen', type='text/css')
+	script(src='/src/lib/zepto.min.js', type='text/javascript', charset='utf-8')
+	script(src='/src/jqtouch.min.js', type='text/javascript', charset='utf-8')
+	script(src='/javascripts/main.js', type='text/javascript', charset='utf-8')
+	body!= body

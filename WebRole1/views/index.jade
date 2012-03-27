@@ -1,2 +1,19 @@
-h1= title
-p Welcome to #{title}
+#first_page
+    .toolbar 
+        h1 home page
+    p the first page...
+    a.button.flip(href='#second_page') link to second name
+
+#second_page
+    .toolbar 
+        a#info.button.leftButton.flip(href='#info_page') Info
+        h1 second page
+    form#search
+    ul.rounded
+        li#notice  Type your search term below and hit search
+        li
+          input#keyword(type='text', name='keyword', placeholder='type your search term here')
+      a.whiteButton.submit(href='#') SEARCH
+#info_page
+    .toolbar
+        h1 info page

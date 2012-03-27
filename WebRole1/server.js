@@ -9,9 +9,9 @@ app.get('/', function (req, res) {
 
 app.listen(port);
 
-///**
-// * Module dependencies.
-// */
+/**
+ * Module dependencies.
+ */
 
 //var express = require('express')
 //  , routes = require('./routes');
